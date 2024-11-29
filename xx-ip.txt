@@ -1,3 +1,22 @@
-{
-  "url": "https://raw.githubusercontent.com/Namia-R/Cloudflare-ip/refs/heads/main/KR.txt"
+addEventListener('fetch', event => {
+  event.respondWith(handleRequest(event.request))
+})
+
+async function handleRequest(request) {
+  // 获取 01.txt 的内容
+  const response = await fetch('https://raw.githubusercontent.com/Namia-R/Cloudflare-ip/refs/heads/main/KR.txt')
+  const text = await response.text()
+
+  // 解析 JSON 获取 02.txt 的 URL
+  const json = JSON.parse(text)
+  const urlToFetch = json.url
+
+  // 获取 02.txt 的内容
+  const newResponse = await fetch(urlToFetch)
+  const newText = await newResponse.text()
+
+  // 返回 02.txt 的内容
+  return new Response(newText, {
+    headers: { 'Content-Type': 'text/plain' }
+  })
 }
