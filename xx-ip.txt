@@ -3,3 +3,6 @@
 155.46.213.37:443#美国、康涅狄格州3
 170.114.45.190:443#美国、加利福尼亚州4
 155.46.213.37:443#美国、康涅狄格州5
+{
+  "url": "https://raw.githubusercontent.com/Namia-R/Cloudflare-ip/refs/heads/main/KR.txt"
+}
