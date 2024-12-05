@@ -1,3 +1,6 @@
+{
+  "url": "https://github.com/enricorath/cf-ip-list/blob/main/cloudflare-ip.txt"
+}
 104.19.57.249:2087#美国-弗吉尼亚
 104.19.57.156:2096#美国-弗吉尼亚
 104.19.56.37:443#美国-弗吉尼亚
