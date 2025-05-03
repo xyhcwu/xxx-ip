@@ -1,2 +1,2 @@
-https://raw.githubusercontent.com/darekjian/yxip/refs/heads/main/ipv4.txt@http://ProxyIP.Vultr.CMLiussss.net
-https://raw.githubusercontent.com/darekjian/yxip/refs/heads/main/ipv6.txt@http://ProxyIP.Vultr.CMLiussss.net
+https://raw.githubusercontent.com/darekjian/yxip/refs/heads/main/ipv4.txt@ProxyIP.Vultr.CMLiussss.net
+https://raw.githubusercontent.com/darekjian/yxip/refs/heads/main/ipv6.txt@ProxyIP.Vultr.CMLiussss.net
