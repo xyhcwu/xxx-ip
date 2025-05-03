@@ -37,3 +37,5 @@
 [2606:4700:e:d7:df6e:18dc:bab9:2536]:443#美国-电信IPv6
 [2606:4700:0:90:2bde:c0b:2442:5075]:443#美国-电信IPv6
 #############################################################
+https://raw.githubusercontent.com/darekjian/yxip/refs/heads/main/ipv4.txt
+https://raw.githubusercontent.com/darekjian/yxip/refs/heads/main/ipv6.txt
