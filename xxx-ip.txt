@@ -1,6 +1,3 @@
-https://raw.githubusercontent.com/darekjian/yxip/refs/heads/main/ipv4.txt@ProxyIP.Vultr.CMLiussss.net
-https://raw.githubusercontent.com/darekjian/yxip/refs/heads/main/ipv6.txt@ProxyIP.Vultr.CMLiussss.net
-https://raw.githubusercontent.com/AdminEdu168/CF-Clean-IP/refs/heads/main/vam-ipv4-2.txt@ProxyIP.Vultr.CMLiussss.net
 2606:4700::cda0:a0f:46c6:46d2#hc美国-ipv6-
 2606:4700:0:72:58a7:1692:f626:10c0#hc美国-ipv6-
 2606:4700:0:af59:ad80:6ac3:f1dd:4c6a#hc美国-ipv6-
