@@ -1,4 +1,3 @@
 https://raw.githubusercontent.com/darekjian/yxip/refs/heads/main/ipv4.txt@ProxyIP.Vultr.CMLiussss.net
 https://raw.githubusercontent.com/darekjian/yxip/refs/heads/main/ipv6.txt@ProxyIP.Vultr.CMLiussss.net
-https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/BestCF/bestcfv4.txt@ProxyIP.Vultr.CMLiussss.net
-https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/BestCF/bestcfv6.txt@ProxyIP.Vultr.CMLiussss.net
+https://raw.githubusercontent.com/darknessm427/IP_Generator/refs/heads/main/ips.txt@ProxyIP.Vultr.CMLiussss.net
