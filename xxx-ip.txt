@@ -1,3 +1,0 @@
-https://raw.githubusercontent.com/darekjian/yxip/refs/heads/main/ipv4.txt@ProxyIP.Vultr.CMLiussss.net
-https://raw.githubusercontent.com/darekjian/yxip/refs/heads/main/ipv6.txt@ProxyIP.Vultr.CMLiussss.net
-https://raw.githubusercontent.com/AdminEdu168/CF-Clean-IP/refs/heads/main/vam-ipv4-2.txt@ProxyIP.Vultr.CMLiussss.net
