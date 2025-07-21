@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/ZhiXuanWang/cf-speed-dns/refs/heads/main/ipTop10.html
 https://raw.githubusercontent.com/darekjian/yxip/refs/heads/main/ipv4.txt@ProxyIP.JP.CMLiussss.net
 https://raw.githubusercontent.com/darekjian/yxip/refs/heads/main/ipv6.txt@ProxyIP.JP.CMLiussss.net
 https://raw.githubusercontent.com/AdminEdu168/CF-Clean-IP/refs/heads/main/vam-ipv4-2.txt@ProxyIP.JP.CMLiussss.net
+https://raw.githubusercontent.com/ZhiXuanWang/cf-speed-dns/refs/heads/main/ipTop10.html
